@@ -1,8 +1,9 @@
 <section class="marketing">
   <div class="alert alert-info ">
     <h1 style="margin-top: 0;">Bleiben Sie informiert!</h1>
-    <p style="margin-bottom: 12px;">Heben Sie sich durch Allergenmanagement von
-    Ihrer Konkurrenz ab machen Sie Ihren Betrieb fit für die Verordnungen der Zukunft. In meinem Newsletter zeige ich Ihnen, wie Sie diese Herausforderungen meistern—ganz ohne Kopfzerbrechen.</p>
+    <p style="margin-bottom: 12px;">
+      Heben Sie sich durch Allergenmanagement von Ihrer Konkurrenz ab und machen Sie Ihren Betrieb fit für die Verordnungen der Zukunft. In meinem Newsletter zeige ich Ihnen, wie Sie diese Herausforderungen meistern—ganz ohne Kopfzerbrechen.
+    </p>
 
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">

@@ -20,7 +20,7 @@
 
         <?php include 'alerts/alternativen.php' ?>
         <p>
-          Getreidemilch, Reismilch, Sojamilch, Reismilch, Mandelmilch, Haselnussmilch, Hanfmilch.
+          Getreidemilch, Reismilch, Sojamilch, Mandelmilch, Haselnussmilch, Hanfmilch.
         </p>
       </div>
     </div>

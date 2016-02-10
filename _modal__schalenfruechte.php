@@ -9,7 +9,7 @@
       </div>
       <div class="modal-body">
         <?php echo $vorkommen; ?>
-        Mandeln, Haselnüsse, Walnüsse, Pistazien, Kaschunüsse/Cashewnüsse, Pekannüsse, Paranüsse, Pistazien, Macadamia-/Queenslandnüsse sowie alle daraus gewonnenen Erzeugnisse.
+        Mandeln, Haselnüsse, Walnüsse, Kaschunüsse/Cashewnüsse, Pekannüsse, Paranüsse, Pistazien, Macadamia-/Queenslandnüsse sowie alle daraus gewonnenen Erzeugnisse.
 
         <?php echo $vorsicht; ?>
         <p>
