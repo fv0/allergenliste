@@ -11,20 +11,18 @@
         </h3>
       </div>
 
-      <section class="well">
-        <div class="row">
-          <div class="col-sm-4 col-xs-6">
-            <img src="images/photodune-14407958-chef-s.jpg" alt="Skeptisch schauender Mann mit Kochmütze in klassischer Kochbekleidung" class="img-responsive">
-          </div>
-          <div class="col-sm-8 col-xs-12">
-            <h1 id="textSample-1">„Das kapiert doch kein Mensch.”</h1>
-            <p class="lead">
-              Die EU-Allergenkennzeichnung in Ihrem Betrieb umzusetzen ist nicht schwer.
-            </p>
-            <p class="lead">
-              Verpflichtend seit bereits <strong><span id="dayCounterLMIV"></span> Tagen</strong>.
-            </p>
-          </div>
+      <section class="well row">
+        <div class="col-sm-5 col-xs-6 col-md-5">
+          <img src="images/photodune-14407958-chef-s.jpg" alt="Skeptisch schauender Mann mit Kochmütze in klassischer Kochbekleidung" class="der-koch img-responsive">
+        </div>
+        <div class="der-koch__text col-sm-7 col-xs-12 col-md-7">
+          <h1 id="textSample-1">„Das kapiert doch kein Mensch.”</h1>
+          <p class="lead">
+            Die EU-Allergenkennzeichnung in Ihrem Betrieb umzusetzen ist nicht schwer.
+          </p>
+          <p class="lead">
+            Verpflichtend seit bereits <strong><span id="dayCounterLMIV"></span> Tagen</strong>.
+          </p>
         </div>
       </section>
 

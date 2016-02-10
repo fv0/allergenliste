@@ -125,3 +125,24 @@ h6 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+@media (min-width: 768px) {
+  .der-koch {
+    position: absolute;
+    bottom: -284px;
+    height: 302px;
+  }
+}
+
+@media (max-width: 767px) {
+  .der-koch {
+    position: relative;
+    left: 50%;
+  }
+
+  .der-koch__text {
+    background-image: -o-linear-gradient(to bottom, white, transparent);
+    background-image: -webkit-linear-gradient(to bottom, white, transparent);
+    background-image: linear-gradient(to bottom, white, transparent);
+  }
+}
