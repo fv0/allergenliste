@@ -16,19 +16,19 @@
           <img src="images/photodune-14407958-chef-s.jpg" alt="Skeptisch schauender Mann mit Kochmütze in klassischer Kochbekleidung" class="der-koch img-responsive">
         </div>
         <div class="der-koch__text col-sm-7 col-xs-12 col-md-7">
-          <h1 id="textSample-1">„Das kapiert doch kein Mensch.”</h1>
+          <h2 id="textSample-1">„Das kapiert doch kein Mensch.”</h2>
           <p class="lead">
-            Die EU-Allergenkennzeichnung in Ihrem Betrieb umzusetzen ist nicht schwer.
+            Die EU-Allergenkennzeichnung in Ihrer Gastronomie umzusetzen ist nicht schwer.
           </p>
           <p class="lead">
-            Verpflichtend seit bereits <strong><span id="dayCounterLMIV"></span> Tagen</strong>.
+            Verpflichtend seit bereits <em><span id="dayCounterLMIV"></span> Tagen</em>.
           </p>
         </div>
       </section>
 
       <div class="row marketing">
         <div class="col-md-12">
-          <h1 style="margin-bottom: 30px;">14 Hauptallergene</h1>
+          <h2 style="margin-bottom: 30px;">14 Hauptallergene</h2>
         </div>
 
         <div class="col-sm-6">
