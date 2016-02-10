@@ -6,13 +6,4 @@
   var now = new Date;
   var result = Math.round( (now - startLMIV) / (1000 * 60 * 60 * 24) ); // round the amount of days
   document.getElementById("dayCounterLMIV").innerHTML = result;
-
-  //.DS_Store
-  var textSamples = $('[id^="textSample-"]').hide();
-  var i = 0;
-
-  (function cycle() {
-    textSamples.eq(i).fadeIn(400).delay(4000).fadeOut(400, cycle);
-    i = ++i % textSamples.length;
-  })();
 </script>

@@ -18,8 +18,6 @@
           </div>
           <div class="col-sm-8 col-xs-12">
             <h1 id="textSample-1">„Das kapiert doch kein Mensch.”</h1>
-            <h1 id="textSample-2">„Ich bin Koch und kein Arzt.”</h1>
-            <h1 id="textSample-3">„Meine Speisekarte ist keine Police.”</h1>
             <p class="lead">
               Die EU-Allergenkennzeichnung in Ihrem Betrieb umzusetzen ist nicht schwer.
             </p>
