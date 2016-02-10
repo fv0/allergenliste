@@ -80,3 +80,48 @@ body {
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ START ━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 Custom CSS */
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Roboto Slab', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-weight: 700;
+}
+
+.dropdown-menu li p {
+  padding: 3px 20px;
+  margin-bottom: 0;
+}
+
+.dropdown-alert .dropdown-menu {
+  min-width: 284px;
+}
+
+.dropdown-alert button {
+  margin-top: 10px; /* align with heading */
+}
+
+#mce-success-response {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6
+}
+
+.logo {
+  background: -o-linear-gradient(right, #0277BD 75%, #00C853);
+  background: -webkit-linear-gradient(right, #0277BD 75%, #00C853);
+  background: linear-gradient(right, #0277BD 75%, #00C853);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
