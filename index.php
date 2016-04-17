@@ -127,8 +127,6 @@
         <!-- End Modal content -->
       </div>
 
-      <?php include '_partial__newsletter.php' ?>
-
       <?php include '_partial__footer.php' ?>
 
     </div> <!-- /container -->
