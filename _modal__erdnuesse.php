@@ -8,14 +8,9 @@
         <h4 class="modal-title" id="labelErdnuesse">Erdnüsse</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
-        <p>
-          Erdnüsse in Rohform als auch in verarbeiteter Form wie Erdnussöl und Erdnussbutter.
-        </p>
-
         <?php echo $vorsicht; ?>
         <p>
-          Gebäck und Kuchen, Desserts, Cerealien, Schokolade, vorfrittierten Produkten (Pommes, Rösti, Kartoffelpuffer, etc.), Aufstrichen, Füllungen, …
+          Gebäck und Kuchen, Desserts, Cerealien, Schokolade, Müsli, Satésoße, vorfrittierte Produkte (Pommes Frites, Rösti, Kartoffelpuffer, etc.), Aufstriche, …
         </p>
 
         <?php include 'alerts/alternativen.php'; ?>

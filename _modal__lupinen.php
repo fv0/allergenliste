@@ -8,14 +8,9 @@
         <h4 class="modal-title" id="labelLupinen">Lupinen</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
-        <p>
-          Lupinensamen, Lupinenmehl, Lupinenmilch, Lupinentofu und Lupinenkonzentrat
-        </p>
-
         <?php echo $vorsicht; ?>
         <p>
-          Brot- und Backwaren, Nudeln, Cerealien, Gewürzen, Würsten, Aufstrichen oder Süßspeisen.
+          Brot- und Backwaren, Fleischersatz, vegetarische Produkte, glutenfreie Produkte, Nudeln, Müsli, Kaffeeersatz, Flüssigewürze, Süßspeisen, …
         </p>
       </div>
     </div>

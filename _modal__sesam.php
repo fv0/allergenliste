@@ -8,14 +8,9 @@
         <h4 class="modal-title" id="labelSesam">Sesam</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
-        <p>
-          Sesam im Rohzustand, als Sesamöl oder Sesampaste
-        </p>
-
         <?php echo $vorsicht; ?>
         <p>
-          Gebäck, Marinaden, Dressings, Falafel, Cerealien, Hummus, …
+          Falafel, Humus, Gebäck, Marinaden, Dressings, Falafel, Müsli, Hummus, Desserts …
         </p>
       </div>
     </div>

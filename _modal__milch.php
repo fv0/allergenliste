@@ -8,14 +8,9 @@
         <h4 class="modal-title" id="labelMilch">Milch und Laktose</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
+        <?php echo $vorsicht; ?>
         <p>
-          Butter, Käse, Margarine und Produkte, in denen Milch und /oder Laktose vorkommt.
-        </p>
-
-        <h4>Beispiele</h4>
-        <p>
-          Brot und Backwaren, Wurstwaren, Pürees, Suppen oder Saucen.
+          Brot und Backwaren, Wurstwaren, Pürees, Suppen, Pommes Frites, Kroketten, Karamell, Gratin, …
         </p>
 
         <?php include 'alerts/alternativen.php' ?>

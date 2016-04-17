@@ -15,7 +15,7 @@
 
         <?php echo $vorsicht; ?>
         <p>
-          Asiatischen Gewürzmischung oder Pasten mit Extrakten aus Krebstieren.
+          Paella, Bouillabaise, Sashimi, Surimi, asiatische Gewürzmischungen oder -pasten, …
         </p>
       </div>
     </div>

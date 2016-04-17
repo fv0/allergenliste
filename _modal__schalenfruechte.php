@@ -9,11 +9,13 @@
       </div>
       <div class="modal-body">
         <?php echo $vorkommen; ?>
-        Mandeln, Haselnüsse, Walnüsse, Kaschunüsse/Cashewnüsse, Pekannüsse, Paranüsse, Pistazien, Macadamia-/Queenslandnüsse sowie alle daraus gewonnenen Erzeugnisse.
+        <p>
+          Mandeln, Haselnüsse, Walnüsse, Kaschunüsse/Cashewnüsse, Pekannüsse, Paranüsse, Pistazien, Macadamia-/Queenslandnüsse sowie alle daraus gewonnenen Erzeugnisse.
+        </p>
 
         <?php echo $vorsicht; ?>
         <p>
-          Pesto, Süßspeisen, Schokolade, Cremespeisen, Wurstwaren, Pasteten, Brote,
+          Pesto, Gebäck, Mortadella (enthält Pistazien), Süßspeisen, Schokolade, Cremespeisen, Marzipan, Wurstwaren, Pasteten, vegetarische Aufstriche, Müsli, …
         </p>
       </div>
     </div>

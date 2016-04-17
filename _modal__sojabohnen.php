@@ -8,14 +8,9 @@
         <h4 class="modal-title" id="labelSojabohnen">Sojabohnen</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
-        <p>
-          Sojabohnen und daraus gewonnene Erzeugnisse
-        </p>
-
         <?php echo $vorsicht; ?>
         <p>
-          Miso, Sojasauce, Sojaöl, Gebäck, Marinaden, Kaffeeweißer, Suppen, Saucen, Dressings.
+          Miso, Sojasauce, Sojaöl, Gebäck, Marinaden, Kaffeeweißer, Suppen, Saucen, Dressings, Eiweißshakes, Fertiggerichte aller Art, vegetarische Brotaufstriche, …
         </p>
       </div>
     </div>

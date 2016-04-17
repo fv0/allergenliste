@@ -9,10 +9,14 @@
       </div>
       <div class="modal-body">
         <?php echo $vorkommen; ?>
-        Sellerieknolle als auch die Staude.
+        <p>
+          Sellerieknolle als auch die Staude.
+        </p>
 
         <?php echo $vorsicht; ?>
-        Gewürz in Fertiggerichten, Dressings, Ketchup, Saucen, …
+        <p>
+          Gewürzmischungen, Fleischerzeugnisse, eingelegtes Gemüse, Brühe, Suppen, Eintopf, Curry, Dressings, Ketchup, Saucen, …
+        </p>
 
         <?php include 'alerts/alternativen.php'; ?>
         <p>

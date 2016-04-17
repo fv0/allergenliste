@@ -15,7 +15,7 @@
 
         <?php echo $vorsicht; ?>
         <p>
-          Mayonnaise, Panaden, Dressings, Kuchen, Suppen, Saucen, Nudeln, Glasuren, …
+          Mayonnaise, Panaden, Frikadellen, Burger, Quiche, Dressings, Kuchen, Suppen, Soßen, Nudeln, Glasuren, …
         </p>
 
         <?php include 'alerts/alternativen.php' ?>

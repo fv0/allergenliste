@@ -8,14 +8,13 @@
         <h4 class="modal-title" id="labelSchwefel">Schwefel</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
         <p>
-          Softdrinks, Bier, Wein, Essig, Trockenfrüchte.
+          in Konzentrationen von mehr als 10 mg/kg oder 10 mg/l als insgesamt vorhandenes SO2.
         </p>
 
         <?php echo $vorsicht; ?>
         <p>
-          Konzentrationen von mehr als 10 mg/Kg oder 10 mg/l.
+          Wein, Trockenobst, Müsli, getrocknetes Gemüse, Fruchtzubereitungen, gesalzener Trockenfisch, Sauerkraut, Fruchtsaft, …
         </p>
       </div>
     </div>

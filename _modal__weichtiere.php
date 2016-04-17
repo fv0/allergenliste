@@ -10,12 +10,12 @@
       <div class="modal-body">
         <?php echo $vorkommen; ?>
         <p>
-          Schnecken, Tintenfisch, Austern, Muscheln und alle Erzeugnisse aus ihnen.
+          Schnecken, Tintenfisch, Oktopus, Abalone, Calamares, Austern, Muscheln und alle Erzeugnisse aus ihnen.
         </p>
 
         <?php echo $vorsicht; ?>
         <p>
-          Gewürzmischungen, Saucen, asiatische Spezialitäten, Salate oder Pasten.
+          Gewürzmischungen, Soßen, asiatische Spezialitäten, Paella, Marinaden, …
         </p>
       </div>
     </div>

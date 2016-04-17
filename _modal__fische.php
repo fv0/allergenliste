@@ -15,7 +15,7 @@
 
         <?php echo $vorsicht; ?>
         <p>
-          Würzpasten, Saucen etc.
+          Würzpasten, Soßen (z.B. Worcestersauce), Surimi, Pasteten, Fonds, …
         </p>
       </div>
     </div>

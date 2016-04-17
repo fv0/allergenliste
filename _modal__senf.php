@@ -8,11 +8,10 @@
         <h4 class="modal-title" id="labelSenf">Senf</h4>
       </div>
       <div class="modal-body">
-        <?php echo $vorkommen; ?>
-        Senfkörner, Senfpulver und alle daraus gewonnenen Erzeugnisse.
-
         <?php echo $vorsicht; ?>
-        Dressings, Marinaden, Currys, Wurstwaren, Aufstriche, Gewürzmischungen, …
+        <p>
+          Fleischerzeugnissen, Käse, Dressings, Marinaden, Currys, Aufstriche, Gewürzmischungen, …
+        </p>
       </div>
     </div>
   </div>

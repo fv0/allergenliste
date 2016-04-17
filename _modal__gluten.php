@@ -15,7 +15,7 @@
 
         <?php echo $vorsicht; ?>
         <p>
-          Stärke, Brot, Nudeln, Panaden, Wurstwaren, Desserts etc. Ausgenommen sind Glukosesirup auf Weizen- und Gerstebasis.
+          Brot, Nudeln, Panaden, Soßen, Suppen, Wurstwaren, Desserts, Bier etc.
         </p>
 
         <?php include 'alerts/alternativen.php'; ?>
