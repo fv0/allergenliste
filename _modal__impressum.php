@@ -9,7 +9,8 @@
         <h3 id="angabengemäß§5tmg:">Angaben gemäß § 5 TMG:</h3>
 
         <p>
-          Ferdinand Vogler <br>
+          Allergolink
+          z.Hd. Ferdinand Vogler <br>
           Mellenseestr. 51<br>
           10319 Berlin<br>
           Kontakt: http://scr.im/3ch6
