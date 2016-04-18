@@ -127,6 +127,14 @@
         <!-- End Modal content -->
       </div>
 
+      <section class="row marketing">
+        <div class="col-md-12 text-center">
+          <p>
+            Ein Informationsangebot von <a href="http://www.allergolink.de" target="_blank">Allergolink, deinem Onlineprofil für sorgenfreies Essen</a>.
+          </p>
+        </div>
+      </section>
+
       <?php include '_partial__footer.php' ?>
 
     </div> <!-- /container -->

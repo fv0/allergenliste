@@ -8,7 +8,7 @@
         <a href="#" "button" data-toggle="modal" data-target="#modalDatenschutz">
           Datenschutzerklärung
         </a> |
-        <a href="https://github.com/fv0/allergenliste" target="_blank">Mitmachen auf Github</a> | Ein Projekt von <a href="http://www.ferdinandvogler.com" target="_blank">Ferdinand Vogler</a>
+        Dieses Projekt ist <a href="https://github.com/fv0/allergenliste" target="_blank">Open Source auf Github</a>
       </small>
     </p>
 
