@@ -15,7 +15,7 @@
 
         <?php echo $vorsicht; ?>
         <p>
-          Brot, Nudeln, Panaden, Soßen, Suppen, Wurstwaren, Desserts, Bier etc.
+          Brot, Nudeln, Panaden, Soßen, Suppen, Wurstwaren, Desserts, Bier, …
         </p>
 
         <?php include 'alerts/alternativen.php'; ?>
