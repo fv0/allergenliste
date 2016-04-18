@@ -10,7 +10,7 @@
       <div class="modal-body">
         <?php echo $vorsicht; ?>
         <p>
-          Falafel, Humus, Gebäck, Marinaden, Dressings, Falafel, Müsli, Hummus, Desserts …
+          Tahin, Falafel, Humus, Gebäck, Marinaden, Dressings, Müsli, Desserts …
         </p>
       </div>
     </div>
