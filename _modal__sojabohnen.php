@@ -10,7 +10,7 @@
       <div class="modal-body">
         <?php echo $vorsicht; ?>
         <p>
-          Miso, Sojasauce, Sojaöl, Gebäck, Marinaden, Kaffeeweißer, Suppen, Saucen, Dressings, Eiweißshakes, Fertiggerichte aller Art, vegetarische Brotaufstriche, …
+          Tofu, Miso, Gebäck, Marinaden, Kaffeeweißer, Suppen, Saucen, Dressings, Eiweißshakes, Fertiggerichte aller Art, vegetarische Brotaufstriche, …
         </p>
       </div>
     </div>
